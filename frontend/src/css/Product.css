@@ -1,0 +1,10 @@
+.product-name {
+    color: red;
+    font-weight: bold;
+}
+
+.product-review{
+    display: flex;
+    justify-content: space-between;
+
+}

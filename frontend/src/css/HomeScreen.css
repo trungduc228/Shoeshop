@@ -1,0 +1,38 @@
+.homescreen-top{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.homescreen-latest{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.homescreen-background {
+    background-image: url(../images/HomeScreen/bg-banner.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: inherit;
+    box-shadow: 0 0 0 0 #fff;
+    padding-top: 120px;
+    padding-right: 0px;
+    padding-bottom: 120px;
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+.homescreen-mega {
+    margin-top:100px ;
+    margin-bottom: 50px;
+}
+
+.homescreen-signup{
+    background-color: red;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}

@@ -1,0 +1,17 @@
+.place-order-title-shipping {
+    margin-bottom: 20px;
+}
+
+.place-order-name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.place-order-product-name {
+    font-weight: bold;
+}
+
+.place-order {
+    font-size: 17px;
+}

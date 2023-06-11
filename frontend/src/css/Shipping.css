@@ -1,0 +1,23 @@
+.shipping-screen-title {
+    text-align: center;
+    font-weight: bold;
+}
+
+.shipping-screen-button {
+    background-color: red;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+.shipping-screen-button-special {
+    margin-left: 17px;
+    margin-top: 10px;
+}
+
+.shipping-screen-title-special {
+    margin-bottom: 20px;
+}
